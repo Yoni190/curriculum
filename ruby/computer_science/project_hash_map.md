@@ -67,9 +67,9 @@ You already know the magic behind hash maps, now it's time to write your own imp
 
 #### Test Your Hash Map
 
-1. Create a new Ruby file.
+1. Create a new Ruby file
 
-1. Create a new instance of your hash map and set the load factor to be `0.75`.
+1. Create a new instance of your hash map and set the load factor to be `0.75`
 
     ```ruby
     test = HashMap.new
